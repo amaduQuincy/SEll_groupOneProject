@@ -1,0 +1,2 @@
+--open command prompt and navigate to project directory
+--excute python manage.py tests.py
